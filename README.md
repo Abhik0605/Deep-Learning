@@ -1,1 +1,2 @@
-This us just a test to see whether I can use this
+These are the programming modules that aided my understanding of the deep learning course.
+
