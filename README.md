@@ -1,2 +1,3 @@
-These are the programming modules that aided my understanding of the deep learning course.
+These are the programming modules that aided my understanding of the deep learning course by Andrew Ng.
+
 
